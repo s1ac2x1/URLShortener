@@ -1,0 +1,8 @@
+{
+  "short_name": "Leverton tech task",
+  "name": "URL Shortener",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

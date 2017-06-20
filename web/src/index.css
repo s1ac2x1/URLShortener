@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.inputWrapper {
+    height: 30px;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    width: 40%;
+    margin: 5em auto;
+    border:1px solid grey;
+}
+
+input {
+    -webkit-box-flex:1;
+    -webkit-flex:1;
+    -ms-flex:1;
+    flex:1;
+}
+
+button {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 30px;
+    -ms-flex: 0 0 30px;
+    flex: 0 0 30px
+}
